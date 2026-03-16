@@ -11,7 +11,7 @@ The dashboard enables users to explore sales patterns, outlet performance, and p
 
 ## 🖼 Dashboard Preview
 
-!(DashboardPreview.png)
+![Dashboard Preview](DashboardPreview.png)
 
 ---
 
