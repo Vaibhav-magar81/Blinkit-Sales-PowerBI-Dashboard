@@ -35,7 +35,7 @@ The dashboard highlights important business metrics:
 | Total Items | 8523 |
 | Delivery Partners | 5000 |
 | Average Rating | 3.9 |
-| Average Delivery Rating | 4.4 |
+| Average Delivery Time | 4.4 Min |
 
 These KPIs provide a quick overview of Blinkit's operational performance.
 
